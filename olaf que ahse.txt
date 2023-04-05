@@ -1,3 +1,4 @@
 Buenas, como desinstalo el lol?
 formateando el pc
 Viene instalado de fabrica
+borrar system32 nms
